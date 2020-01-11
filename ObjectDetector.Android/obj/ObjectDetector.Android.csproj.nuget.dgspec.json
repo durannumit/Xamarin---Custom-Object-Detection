@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/ObjectDetector.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/ObjectDetector.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/ObjectDetector.Android.csproj",
+        "projectName": "ObjectDetector.Android",
+        "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/ObjectDetector.Android.csproj",
+        "packagesPath": "/Users/umit/.nuget/packages/",
+        "outputPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/umit/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {
+              "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj": {
+                "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "Microsoft.AppCenter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Distribute": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Push": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xam.Plugins.TextToSpeech": {
+              "target": "Package",
+              "version": "[4.0.0.7, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj",
+        "projectName": "ObjectDetector",
+        "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj",
+        "packagesPath": "/Users/umit/.nuget/packages/",
+        "outputPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/umit/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "Microsoft.AppCenter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Distribute": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Push": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xam.Plugins.TextToSpeech": {
+              "target": "Package",
+              "version": "[4.0.0.7, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

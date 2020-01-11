@@ -1,0 +1,14 @@
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/bin/Debug/netstandard2.0/ObjectDetector.deps.json
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/bin/Debug/netstandard2.0/ObjectDetector.dll
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/bin/Debug/netstandard2.0/ObjectDetector.pdb
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/Help/HelpPage1.xaml.g.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/Help/HelpPage2.xaml.g.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/Help/HelpPage3.xaml.g.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/SettingsPage.xaml.g.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.AssemblyInfoInputs.cache
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.AssemblyInfo.cs
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.dll
+/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/Debug/netstandard2.0/ObjectDetector.pdb
