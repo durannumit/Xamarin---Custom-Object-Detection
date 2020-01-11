@@ -6640,11 +6640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj",
+      "projectUniqueName": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj",
       "projectName": "ObjectDetector",
-      "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj",
+      "projectPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj",
       "packagesPath": "/Users/umit/.nuget/packages/",
-      "outputPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/",
+      "outputPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/umit/.config/NuGet/NuGet.Config"

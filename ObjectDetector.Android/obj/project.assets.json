@@ -6735,11 +6735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/ObjectDetector.Android.csproj",
+      "projectUniqueName": "/Users/umit/Desktop/ObjectDetector/ObjectDetector.Android/ObjectDetector.Android.csproj",
       "projectName": "ObjectDetector.Android",
-      "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/ObjectDetector.Android.csproj",
+      "projectPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector.Android/ObjectDetector.Android.csproj",
       "packagesPath": "/Users/umit/.nuget/packages/",
-      "outputPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector.Android/obj/",
+      "outputPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -6754,8 +6754,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj": {
-              "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj"
+            "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj": {
+              "projectPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj"
             }
           }
         }

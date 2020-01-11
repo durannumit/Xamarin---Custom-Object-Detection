@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj": {}
+    "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj": {}
   },
   "projects": {
-    "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj": {
+    "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj",
+        "projectUniqueName": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj",
         "projectName": "ObjectDetector",
-        "projectPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/ObjectDetector.csproj",
+        "projectPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/ObjectDetector.csproj",
         "packagesPath": "/Users/umit/.nuget/packages/",
-        "outputPath": "/Users/umit/Desktop/ObjectDetector-master/ObjectDetector/obj/",
+        "outputPath": "/Users/umit/Desktop/ObjectDetector/ObjectDetector/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/umit/.config/NuGet/NuGet.Config"
@@ -38,7 +38,7 @@
           "dependencies": {
             "Com.Airbnb.Xamarin.Forms.Lottie": {
               "target": "Package",
-              "version": "[3.0.3, )"
+              "version": "[3.0.0, )"
             },
             "Humanizer": {
               "target": "Package",
